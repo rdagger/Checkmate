@@ -1,6 +1,7 @@
 # Checkmate
 This project is a Pygame remake of the classic Bally Astrocade game, Checkmate, originally developed by Jamie Faye Fenton in 1977.
 
+![Checkmate](https://github.com/rdagger/Checkmate/assets/106355/51c9888e-41da-48c7-90b4-bda0397eb4e2)
 
 
 Overview
